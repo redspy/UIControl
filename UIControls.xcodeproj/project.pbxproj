@@ -16,6 +16,7 @@
 		774356D12757C3E40029EBC1 /* UIControlsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774356D02757C3E40029EBC1 /* UIControlsTests.swift */; };
 		774356DB2757C3E40029EBC1 /* UIControlsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774356DA2757C3E40029EBC1 /* UIControlsUITests.swift */; };
 		774356DD2757C3E40029EBC1 /* UIControlsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774356DC2757C3E40029EBC1 /* UIControlsUITestsLaunchTests.swift */; };
+		774356EA27677F290029EBC1 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774356E927677F290029EBC1 /* Profile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		774356D62757C3E40029EBC1 /* UIControlsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIControlsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		774356DA2757C3E40029EBC1 /* UIControlsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIControlsUITests.swift; sourceTree = "<group>"; };
 		774356DC2757C3E40029EBC1 /* UIControlsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIControlsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		774356E927677F290029EBC1 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				774356C32757C3E30029EBC1 /* Persistence.swift */,
 				774356C52757C3E30029EBC1 /* UIControls.xcdatamodeld */,
 				774356C02757C3E30029EBC1 /* Preview Content */,
+				774356E927677F290029EBC1 /* Profile.swift */,
 			);
 			path = UIControls;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				774356C42757C3E30029EBC1 /* Persistence.swift in Sources */,
+				774356EA27677F290029EBC1 /* Profile.swift in Sources */,
 				774356C72757C3E30029EBC1 /* UIControls.xcdatamodeld in Sources */,
 				774356BD2757C3DC0029EBC1 /* ContentView.swift in Sources */,
 				774356BB2757C3DC0029EBC1 /* UIControlsApp.swift in Sources */,
