@@ -19,6 +19,7 @@
 		774356EA27677F290029EBC1 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774356E927677F290029EBC1 /* Profile.swift */; };
 		774356EC276782EC0029EBC1 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774356EB276782EC0029EBC1 /* ProfileHost.swift */; };
 		774356EE276784150029EBC1 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774356ED276784150029EBC1 /* ProfileSummary.swift */; };
+		774356F0276786900029EBC1 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774356EF276786900029EBC1 /* HikeBadge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		774356E927677F290029EBC1 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		774356EB276782EC0029EBC1 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		774356ED276784150029EBC1 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
+		774356EF276786900029EBC1 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				774356E927677F290029EBC1 /* Profile.swift */,
 				774356EB276782EC0029EBC1 /* ProfileHost.swift */,
 				774356ED276784150029EBC1 /* ProfileSummary.swift */,
+				774356EF276786900029EBC1 /* HikeBadge.swift */,
 			);
 			path = UIControls;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				774356C72757C3E30029EBC1 /* UIControls.xcdatamodeld in Sources */,
 				774356EC276782EC0029EBC1 /* ProfileHost.swift in Sources */,
 				774356BD2757C3DC0029EBC1 /* ContentView.swift in Sources */,
+				774356F0276786900029EBC1 /* HikeBadge.swift in Sources */,
 				774356BB2757C3DC0029EBC1 /* UIControlsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
